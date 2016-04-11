@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4BF8ED93-3235-4940-A8FD-76F601D2A56D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>transformation-matrices</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>86FDE18DE6F5EBA1C48733C0625A36859E672EE6</key>
+		<string>https://github.com/opengl-records/texture-maps-gl7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>transformation-matrices.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>86FDE18DE6F5EBA1C48733C0625A36859E672EE6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/opengl-records/texture-maps-gl7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>86FDE18DE6F5EBA1C48733C0625A36859E672EE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>86FDE18DE6F5EBA1C48733C0625A36859E672EE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>texture-maps-gl7</string>
+		</dict>
+	</array>
+</dict>
+</plist>
