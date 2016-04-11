@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD0076D3-70FE-44E7-AA92-CA9C57010AFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>triangel_index</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F15DE571-13DA-46A4-8FC9-5B374F242A39</key>
+		<string>https://github.com/opengl-records/light-shader-gl11.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>triangel_index/triangel_index.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F15DE571-13DA-46A4-8FC9-5B374F242A39</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/opengl-records/light-shader-gl11.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F15DE571-13DA-46A4-8FC9-5B374F242A39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F15DE571-13DA-46A4-8FC9-5B374F242A39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>light-shader-gl11</string>
+		</dict>
+	</array>
+</dict>
+</plist>
