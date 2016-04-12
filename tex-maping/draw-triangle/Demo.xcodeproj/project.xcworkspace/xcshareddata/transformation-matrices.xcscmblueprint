@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "550F4CAA825D554B14D037086D374322B502CC32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "550F4CAA825D554B14D037086D374322B502CC32" : 0,
+    "FBDBDBB2-F034-4FF2-A145-F15F8181F411" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E51D76D-1619-4DA3-9419-80D1A8B36CB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "550F4CAA825D554B14D037086D374322B502CC32" : "texture-maps-gl6",
+    "FBDBDBB2-F034-4FF2-A145-F15F8181F411" : "texture-cube"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "transformation-matrices",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "draw-triangle\/transformation-matrices.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/opengl-records\/texture-maps-gl6.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "550F4CAA825D554B14D037086D374322B502CC32"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/opengl-records\/texture-cube.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBDBDBB2-F034-4FF2-A145-F15F8181F411"
+    }
+  ]
+}
